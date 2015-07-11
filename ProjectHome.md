@@ -1,0 +1,1 @@
+Set of AGI script and dialplan examples for authorization and accounting
